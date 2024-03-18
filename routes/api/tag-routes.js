@@ -58,7 +58,7 @@ router.put('/:id', (req, res) => {
     .then ((tag) => {
       res.json(tag);
     })
-    catch((err) => {
+    .catch((err) => {
       res.status(500).json(err);
     })
 });
