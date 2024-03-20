@@ -11,11 +11,15 @@ This Installation requires Express.js, Sequelize, and MySQL Database.
 ## Usage Instructions
 
 * Create a MySQL database through terminal using "SOURCE db/schema.sql"
-* Seed the database with "npm run seed" for sample data
+* Seed the database with "npm run seed" for sample data.
+* Start the application with "npm run watch" to get server running and verify app is listening.
+* Open Insomnia application to make desired requests such as get, post, put, delete, create and update data.
 
-
-## Screencastify Tutorial and Link
+## Screencastify Tutorial with Link
 
 https://drive.google.com/file/d/1vYSaxdS5Y2zZtA8OOQiDhvxWtNFASK4M/view
 
 ## Github Link
+
+https://github.com/natesanow/E-Commerce-Back-End
+
