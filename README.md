@@ -20,7 +20,7 @@ This Installation requires Express.js, Sequelize, and MySQL Database.
 
 Demo: https://drive.google.com/file/d/1vYSaxdS5Y2zZtA8OOQiDhvxWtNFASK4M/view
 
-Github Repo: [https://github.com/natesanow/E-Commerce-Back-End/tree/main] 
+Github Repo: https://github.com/natesanow/E-Commerce-Back-End/tree/main
 
 ## Questions
 
