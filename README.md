@@ -17,6 +17,12 @@ This Installation requires Express.js, Sequelize, and MySQL Database.
 
 ## Screencastify Tutorial with Link
 
+
+
+https://github.com/natesanow/E-Commerce-Back-End/assets/152323081/8580f1ca-2ddb-4d02-a9f9-de5cff548533
+
+
+
 https://drive.google.com/file/d/1vYSaxdS5Y2zZtA8OOQiDhvxWtNFASK4M/view
 
 ## Github Link
